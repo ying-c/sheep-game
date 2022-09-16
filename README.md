@@ -1,7 +1,5 @@
 # 能够解出来的 "羊了个羊" 小游戏 Demo
 
-![qrcode.png](public/qrcode.png)
-
 坑爹的小游戏（本来玩法挺有意思的，非得恶心人），根本无解（99.99%无解），气的我自己写了个 demo，
 扫码或：<a href="https://solvable-sheep-game.streakingman.com/" target="_blank">pc浏览器体验</a>
 
